@@ -1,0 +1,67 @@
+[
+  {
+    "area:": 24328.49350939936,
+    "color": {
+      "alpha": 48,
+      "blue": 103,
+      "green": 81,
+      "red": 121
+    },
+    "coordinates": {
+      "A": {
+        "first": 793.0,
+        "second": 58.0
+      }
+    },
+    "perimetr": 552.9203070318035,
+    "radius": 88.0,
+    "type figure": "circle"
+  },
+  {
+    "area:": null,
+    "color": {
+      "alpha": 161,
+      "blue": 80,
+      "green": 143,
+      "red": 144
+    },
+    "coordinates": {
+      "A": {
+        "first": 46.0,
+        "second": 701.0
+      },
+      "B": {
+        "first": 967.0,
+        "second": 533.0
+      },
+      "C": {
+        "first": 620.0,
+        "second": 486.0
+      },
+      "D": {
+        "first": 605.0,
+        "second": 479.0
+      }
+    },
+    "perimetr": 909.1685308533592,
+    "type figure": "quadrangle"
+  },
+  {
+    "area:": 10568.317686676064,
+    "color": {
+      "alpha": 115,
+      "blue": 125,
+      "green": 4,
+      "red": 53
+    },
+    "coordinates": {
+      "A": {
+        "first": 793.0,
+        "second": 58.0
+      }
+    },
+    "perimetr": 364.424747816416,
+    "radius": 58.0,
+    "type figure": "circle"
+  }
+]
